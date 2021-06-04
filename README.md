@@ -28,3 +28,9 @@ NiM, Nama, Jurusan, dan No.Telp itu menggunkan Label kemudian untuk kolom disamp
 Kemudian untuk Tombol Tambah, Edit, Clear Hapus menggunakan Push button kemudian untuk membuatnya sejajar menggunakan Horizontal Layout 
 
 
+# UTS
+# Nomor 1
+
+
+# Nomor 2
+<img src = ".PNG">
