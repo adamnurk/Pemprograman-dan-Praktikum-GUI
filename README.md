@@ -30,12 +30,12 @@ Kemudian untuk Tombol Tambah, Edit, Clear Hapus menggunakan Push button kemudian
 
 # UTS
 # Nomor 1
-<img src = ".PNG">
-<img src = ".PNG">
+<img src = "https://github.com/adamnurk/Pemprograman-dan-Praktikum-GUI/blob/Teori-GUI/UTS/Screenshots1.PNG">
+<img src = "https://github.com/adamnurk/Pemprograman-dan-Praktikum-GUI/blob/Teori-GUI/UTS/Screenshots2.PNG">
 
 # Nomor 2
-<img src = ".PNG">
+<img src = "https://github.com/adamnurk/Pemprograman-dan-Praktikum-GUI/blob/Teori-GUI/UTS/Eror.PNG">
 pada nomor 2 bisa terjadi eror seperti gambar diatas dikarenakan adanya kesalan indentasi, 
 dan setelah masalah tersebut selesai diperbaiki maka outputnya akan seperti :
-<img src = ".PNG">
-<img src = ".PNG">
+<img src = "https://github.com/adamnurk/Pemprograman-dan-Praktikum-GUI/blob/Teori-GUI/UTS/Click.PNG">
+<img src = "https://github.com/adamnurk/Pemprograman-dan-Praktikum-GUI/blob/Teori-GUI/UTS/Click2.PNG">
