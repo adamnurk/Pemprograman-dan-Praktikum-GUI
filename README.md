@@ -30,7 +30,12 @@ Kemudian untuk Tombol Tambah, Edit, Clear Hapus menggunakan Push button kemudian
 
 # UTS
 # Nomor 1
-
+<img src = ".PNG">
+<img src = ".PNG">
 
 # Nomor 2
+<img src = ".PNG">
+pada nomor 2 bisa terjadi eror seperti gambar diatas dikarenakan adanya kesalan indentasi, 
+dan setelah masalah tersebut selesai diperbaiki maka outputnya akan seperti :
+<img src = ".PNG">
 <img src = ".PNG">
